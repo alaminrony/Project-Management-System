@@ -1,0 +1,59 @@
+/* here you can put your own css to customize and override the theme */
+
+
+.page-header.navbar{
+    background-color:#0e4a4d !important;
+}
+.page-sidebar{
+    background-color: #013134 !important;
+}
+.page-footer{
+    background-color: #0e4a4d !important;
+}
+
+.create-new {
+    color: white !important;
+}
+
+
+.vcenter {
+    vertical-align: middle !important;
+    float: none;
+}
+
+.checkbox-center {
+    margin-top: 8px;
+}
+
+.mark-caheck {
+    margin-left: 17px !important;
+}
+
+.mark-caheck-td {
+    margin-left: 50px !important;
+}
+
+#recordPerPageHolder {
+    padding-top: 12px;
+}
+
+#bug-file-show{
+    display:inline-block;
+    margin-right: 3px;
+    border:1px solid #29CD98;
+}
+
+#progressBarMargin{
+    float: left; 
+    margin-right: 5px;
+}
+#progressBackground{
+    background-color: #E0EBF9;
+}
+
+.print-4-header{
+float: left;
+}
+.print-footer{
+float:right;
+}
